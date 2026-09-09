@@ -1,4 +1,4 @@
-# 02 — BERT (from scratch)
+# BERT (from scratch)
 
 A small, heavily-commented implementation of **BERT: Pre-training of Deep
 Bidirectional Transformers for Language Understanding** (Devlin et al., 2018),
